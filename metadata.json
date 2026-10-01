@@ -1,0 +1,8 @@
+{
+  "name": "좋은 은행 - 따뜻한 대출 신청",
+  "description": "카페 감성의 따뜻하고 편안한 대출 신청 및 한도 조회 서비스 '좋은 은행'",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
